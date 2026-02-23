@@ -1,0 +1,37 @@
+{
+  "anchorId": "unicon-forms",
+  "sectionTitle": "Uni-Con 表单",
+  "sectionSubtitle": "请填写下列表单，帮助我们筹备 Uni-Con（墨大动漫展）。",
+  "heroButtons": {
+    "enabled": true,
+    "hideDefaultSecondaryCta": true,
+    "buttons": [
+      {
+        "label": "Uni-Con 意向",
+        "href": "#unicon-forms"
+      },
+      {
+        "label": "最喜欢的米哈游角色",
+        "href": "#unicon-forms"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "key": "eoi",
+      "title": "Uni-Con（墨大动漫展）— 意向征集",
+      "desc": "告诉我们你是否会参加、愿意志愿/帮忙等，你的意见会影响活动规划。",
+      "formUrl": "",
+      "buttonLabel": "打开表单",
+      "qrImage": ""
+    },
+    {
+      "key": "mihoyo",
+      "title": "最喜欢的米哈游角色",
+      "desc": "投票选出你最喜欢的角色，我们会用于活动与周边想法。",
+      "formUrl": "",
+      "buttonLabel": "立即投票",
+      "qrImage": ""
+    }
+  ]
+}
